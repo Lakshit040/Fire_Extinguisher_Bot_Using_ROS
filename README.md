@@ -42,6 +42,8 @@ This is a live demonstration of navigation of our bot to a given location point.
 Working photos.docx -
 
 This word document consists of some of the live working pics of our project, for example making a map for our turtlebot and about the navigation of the bot to a desired location.
+
+
 Procedure
 Install ROS on Remote PC
 
