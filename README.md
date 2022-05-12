@@ -1,1 +1,0 @@
-# Fire_Extinguisher_Bot_Using_ROS
